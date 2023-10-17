@@ -6,7 +6,7 @@ export default function Rechazados() {
     <div>
       <Card>
         
-        <h1>adios mundo</h1>
+        <h1>Recahazados</h1>
         </Card>
     </div>
   )

@@ -45,18 +45,18 @@ function App() {
       </Card> */}
 
      
-      <Candidatos/>
+      
 
     
      <div style={{ display: "flex", justifyContent: "center" }}>
       <Card>
-    
+      <Candidatos/>
           <img src={data}/>
 
         </Card>
       </div>
-
-    <Aceptados/>
+    
+    <Aceptados style={{ display: "left", justifyContent: "center" }}/>
     <Rechazados/>
     
 

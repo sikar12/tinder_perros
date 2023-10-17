@@ -4,9 +4,9 @@ import React from 'react'
 
 const Aceptados = () => {
   return (
-    <div>
+    <div style={{ display: "left", justifyContent: "center" }} >
         <Card>
-      <h1>hola world</h1>
+      <h1>aceptados</h1>
         </Card>
     </div>
   )

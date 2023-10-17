@@ -7,6 +7,8 @@ export default function Candidatos() {
        <Card>
       <h2>Candidatos</h2>
         </Card>
+
+        
     </div>
   )
 }
